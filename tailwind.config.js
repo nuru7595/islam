@@ -2,7 +2,11 @@
 module.exports = {
   content: ["*"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        bg: '#006A4E'
+      }
+    },
     fontFamily: {
       ubuntu: ["Ubuntu", "sans-serif"]
     },

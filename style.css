@@ -5,26 +5,30 @@
 @tailwind utilities;
 
 body {
-    @apply font-ubuntu bg-gray-600;
+    @apply container font-ubuntu bg-bg text-white text-center;
 }
 
 section {
-    @apply rounded-lg bg-black text-white;
+    @apply my-3;
+}
+
+.myBorder {
+    @apply rounded-lg border-2 border-white;
 }
 
 .title {
-    @apply text-center p-1 font-bold text-green-600;
-}
-
-.box {
-    @apply px-2;
+    @apply p-1 font-bold;
 }
 
 table {
-    @apply w-full border-collapse table-fixed;
+    @apply w-full table-fixed;
+}
+
+tr {
+    @apply border-y border-white;
 }
 
 th,
 td {
-    @apply border p-1;
+    @apply p-1;
 }
