@@ -13,7 +13,7 @@ section {
 }
 
 .myBorder {
-    @apply rounded-lg border-2 border-white;
+    @apply rounded-xl border-2 border-white;
 }
 
 .title {

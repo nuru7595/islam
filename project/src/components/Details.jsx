@@ -10,7 +10,7 @@ export default function () {
             ></audio>
             <section className="myBorder">
                 <h3 className="title">From - 01 December 2024</h3>
-                <h3 className="title">Updated - 8 December 2024</h3>
+                <h3 className="title">Updated - 09 December 2024</h3>
             </section>
         </>
     );
