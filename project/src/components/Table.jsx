@@ -1,28 +1,32 @@
 export default function Table() {
     return (
         <section className="myBorder">
-            <h3 className="title">Update - v0.8.1</h3>
+            <h3 className="title">Update - v0.9.0</h3>
                 {/* <td colspan="2">8 December 2024</td> */}
             <table>
                 <tr>
                     <td>Esha</td>
-                    <td>-</td>
+                    <td>Alone - 4 + 2 + 3</td>
                 </tr>
-                <tr>
+                <tr className="bg-black">
                     <td>Magreeb</td>
-                    <td>-</td>
+                    <td>Kaja (Slept) - 3</td>
                 </tr>
                 <tr>
                     <td>Asor</td>
-                    <td>-</td>
+                    <td>Alone - 4</td>
                 </tr>
                 <tr>
                     <td>Johor</td>
-                    <td>-</td>
+                    <td>Jamat - 4 + 4 + 2</td>
                 </tr>
                 <tr>
                     <td>Fojor</td>
-                    <td>-</td>
+                    <td>Jamat - 2 + 2</td>
+                </tr>
+                <tr>
+                    <td>Quran</td>
+                    <td>Learn - 45m</td>
                 </tr>
                 <tr>
                     <td>Tahajjud</td>
@@ -164,7 +168,7 @@ export default function Table() {
                 </tr>
                 <tr className="bg-black">
                     <td>Johor</td>
-                    <td>Kaja (Work) - 4</td>
+                    <td>Kaja (Worked) - 4</td>
                 </tr>
                 <tr>
                     <td>Fojor</td>
@@ -202,7 +206,7 @@ export default function Table() {
                 </tr>
                 <tr className="bg-black">
                     <td>Margreeb</td>
-                    <td>Kaja (slept) - 3</td>
+                    <td>Kaja (Slept) - 3</td>
                 </tr>
                 <tr>
                     <td>Asor</td>
