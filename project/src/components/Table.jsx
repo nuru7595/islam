@@ -1,12 +1,28 @@
 export default function Table() {
     return (
         <section>
-            <h3>Update - <span>v0.9.1</span></h3>
+            <h3>Update - <span>v0.9.5</span></h3>
                 {/* <td colspan="2">11 December 2024</td> */}
             <table>
                 <tr>
-                    <td>Johor</td>
+                    <td>Esha</td>
                     <td>Up Next</td>
+                </tr>
+                <tr>
+                    <td>Magreeb</td>
+                    <td>Jamaat - 3 + 2</td>
+                </tr>
+                <tr>
+                    <td>Asor</td>
+                    <td>Jamaat - 4</td>
+                </tr>
+                <tr>
+                    <td>Quran</td>
+                    <td>30</td>
+                </tr>
+                <tr>
+                    <td>Johor</td>
+                    <td>Jamaat - 4 + 4 + 2</td>
                 </tr>
                 <tr>
                     <td>Fojor</td>
@@ -37,7 +53,7 @@ export default function Table() {
                 </tr>
                 <tr>
                     <td>Quran</td>
-                    <td>Learn - 45m</td>
+                    <td>45</td>
                 </tr>
                 <tr>
                     <td>Tahajjud</td>
@@ -64,7 +80,7 @@ export default function Table() {
                 </tr>
                 <tr className="bg-red-700">
                     <td>Fojor</td>
-                    <td>-</td>
+                    <td> (Slept)</td>
                 </tr>
                 <tr>
                     <td colspan="2">8 December 2024</td>
@@ -133,7 +149,7 @@ export default function Table() {
                 </tr>
                 <tr className="bg-red-700">
                     <td>Fojor</td>
-                    <td>-</td>
+                    <td> (Slept)</td>
                 </tr>
                 <tr>
                     <td>Tahajjud</td>

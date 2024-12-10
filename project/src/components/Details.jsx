@@ -15,7 +15,7 @@ export default function () {
                     Total Qaza: <span>4</span>
                 </p>
                 <p>
-                    The Most Common Cause: <span>Sleep</span>
+                    The Most Common Cause of Qaza: <span>Sleep</span>
                 </p>
             </section>
         </>
