@@ -5,19 +5,11 @@
 @tailwind utilities;
 
 body {
-    @apply container font-ubuntu bg-bg text-white text-center;
+    @apply container font-ubuntu bg-bg text-white text-center my-2;
 }
 
 section {
-    @apply my-3;
-}
-
-.myBorder {
-    @apply rounded-xl border-2 border-white;
-}
-
-.title {
-    @apply p-1 font-bold;
+    @apply my-3 rounded-xl border-2 border-white;
 }
 
 table {
@@ -29,6 +21,15 @@ tr {
 }
 
 th,
-td {
+td,
+h3 {
     @apply p-1;
+}
+
+p {
+    @apply py-1;
+}
+
+span {
+    @apply rounded-full bg-white text-black px-2 py-1;
 }
