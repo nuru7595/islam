@@ -2,13 +2,32 @@ export default function Table() {
     return (
         <section>
             <h3>
-                Update - <span>v0.10.6</span>
+                Update - <span>v0.11.3</span>
             </h3>
-            {/* <td colspan="2">11 December 2024</td> */}
+            {/* <td colspan="2">13 December 2024</td> */}
             <table>
                 <tr>
-                    <td>Esha</td>
+                    <td>Johor</td>
                     <td>Up Next</td>
+                </tr>
+                <tr>
+                    <td>Fojor</td>
+                    <td>Alone - 2 + 2</td>
+                </tr>
+                <tr>
+                    <td>Quran</td>
+                    <td>30</td>
+                </tr>
+                <tr>
+                    <td>Tahajjud</td>
+                    <td>Alone - 2</td>
+                </tr>
+                <tr>
+                    <td colspan="2">12 December 2024</td>
+                </tr>
+                <tr>
+                    <td>Esha</td>
+                    <td>Alone - 4 + 2 + 3</td>
                 </tr>
                 <tr>
                     <td>Magreeb</td>
@@ -107,9 +126,9 @@ export default function Table() {
                     <td>Johor</td>
                     <td>Alone - 4 + 4 + 2</td>
                 </tr>
-                <tr className="bg-red-700">
+                <tr className="bg-black">
                     <td>Fojor</td>
-                    <td> (Slept)</td>
+                    <td>Qaza (Slept) - 2</td>
                 </tr>
                 <tr>
                     <td colspan="2">8 December 2024</td>
