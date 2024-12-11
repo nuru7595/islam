@@ -9,7 +9,7 @@ export default function () {
                     Started: <span>01 Dec 2024</span>
                 </p>
                 <p>
-                    Last Updated: <span>10 Dec 2024</span>
+                    Last Updated: <span>11 Dec 2024</span>
                 </p>
                 <p>
                     Total Qaza: <span>4</span>
