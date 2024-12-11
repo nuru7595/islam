@@ -12,7 +12,7 @@ export default function () {
                     Last Updated: <span>11 Dec 2024</span>
                 </p>
                 <p>
-                    Total Qaza: <span>4</span>
+                    Total Qaza: <span>2</span>
                 </p>
                 <p>
                     The Most Common Cause of Qaza: <span>Sleep</span>
