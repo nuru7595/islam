@@ -2,13 +2,32 @@ export default function Table() {
     return (
         <section>
             <h3>
-                Update - <span>v0.11.3</span>
+                Update - <span>v0.12.0</span>
             </h3>
             {/* <td colspan="2">13 December 2024</td> */}
             <table>
                 <tr>
+                    <td>Fojor</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td colspan="2">13 December 2024</td>
+                </tr>
+                <tr>
+                    <td>Esha</td>
+                    <td>Alone - 4 + 2 + 3</td>
+                </tr>
+                <tr>
+                    <td>Magreeb</td>
+                    <td>Alone - 3 + 2</td>
+                </tr>
+                <tr>
+                    <td>Asor</td>
+                    <td>Jamaat - 4</td>
+                </tr>
+                <tr>
                     <td>Johor</td>
-                    <td>Up Next</td>
+                    <td>Alone - 4 + 4 + 2</td>
                 </tr>
                 <tr>
                     <td>Fojor</td>
@@ -16,7 +35,7 @@ export default function Table() {
                 </tr>
                 <tr>
                     <td>Quran</td>
-                    <td>30</td>
+                    <td>70m</td>
                 </tr>
                 <tr>
                     <td>Tahajjud</td>
@@ -43,7 +62,7 @@ export default function Table() {
                 </tr>
                 <tr>
                     <td>Quran</td>
-                    <td>50</td>
+                    <td>50m</td>
                 </tr>
                 <tr>
                     <td>Fojor</td>
@@ -66,7 +85,7 @@ export default function Table() {
                 </tr>
                 <tr>
                     <td>Quran</td>
-                    <td>30</td>
+                    <td>30m</td>
                 </tr>
                 <tr>
                     <td>Johor</td>
@@ -101,7 +120,7 @@ export default function Table() {
                 </tr>
                 <tr>
                     <td>Quran</td>
-                    <td>45</td>
+                    <td>45m</td>
                 </tr>
                 <tr>
                     <td>Tahajjud</td>
