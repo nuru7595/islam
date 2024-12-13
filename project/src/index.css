@@ -20,10 +20,18 @@ tr {
     @apply border-y border-white;
 }
 
+section tr:last-child {
+    @apply border-b-0;
+}
+
 th,
 td,
 h3 {
     @apply p-1;
+}
+
+h3 {
+    @apply py-2;
 }
 
 p {

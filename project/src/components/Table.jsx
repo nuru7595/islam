@@ -1,14 +1,27 @@
 export default function Table() {
     return (
         <section>
-            <h3>
-                Update - <span>v0.12.0</span>
-            </h3>
-            {/* <td colspan="2">13 December 2024</td> */}
+            <h3>December - 2024 - <span>v0.0.13</span></h3>
             <table>
                 <tr>
+                    <td>Esha</td>
+                    <td>Alone - 4 + 2 + 3</td>
+                </tr>
+                <tr>
+                    <td>Magreeb</td>
+                    <td>Alone - 3 + 2</td>
+                </tr>
+                <tr>
+                    <td>Asor</td>
+                    <td>Jamaat - 4</td>
+                </tr>
+                <tr>
+                    <td>Jummah</td>
+                    <td>Jamaat - 4 + 2</td>
+                </tr>
+                <tr>
                     <td>Fojor</td>
-                    <td></td>
+                    <td>Qaza (Err.) - 2</td>
                 </tr>
                 <tr>
                     <td colspan="2">13 December 2024</td>
@@ -318,8 +331,10 @@ export default function Table() {
                     <td>Tahajjud</td>
                     <td>Alone - 2</td>
                 </tr>
+                <tr>
+                    <td colspan="2">1 December 2024</td>
+                </tr>
             </table>
-            <h3>1 December 2024</h3>
         </section>
     );
 }

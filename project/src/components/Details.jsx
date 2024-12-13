@@ -3,21 +3,13 @@ import audio from "../assets/audio.mp3";
 export default function () {
     return (
         <>
-            <audio src={audio} controls className="w-5/6 m-auto pt-3"></audio>
-            <section>
-                <p>
-                    Started: <span>01 Dec 2024</span>
-                </p>
-                <p>
-                    Last Updated: <span>12 Dec 2024</span>
-                </p>
-                <p>
-                    Total Qaza: <span>0</span>
-                </p>
-                <p>
-                    The Most Common Cause of Qaza: <span>Sleep</span>
-                </p>
-            </section>
+            <div className="flex flex-row justify-center gap-5 p-3 flex-wrap">
+                <span>Start - 01 Dec 24</span>
+                <span>Updated - 13 Dec 24</span>
+                <span>Qaza - 0</span>
+                <span>Most Common Reason - Sleep</span>
+            </div>
+            <audio src={audio} controls className="w-5/6 m-auto h-8"></audio>
         </>
     );
 }
