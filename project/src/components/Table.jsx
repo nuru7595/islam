@@ -1,8 +1,35 @@
 export default function Table() {
     return (
         <section>
-            <h3>December - 2024 - <span>v0.0.13</span></h3>
+            <h3>December - 2024 - <span>v0.0.14</span></h3>
             <table>
+                <tr>
+                    <td>Esha</td>
+                    <td>Jamaat (Imam) - 4 + 2 + 3</td>
+                </tr>
+                <tr>
+                    <td>Magreeb</td>
+                    <td>Jamaat - 3 + 2</td>
+                </tr>
+                <tr>
+                    <td>Asor</td>
+                    <td>Jamaat - 4</td>
+                </tr>
+                <tr>
+                    <td>Johor</td>
+                    <td>Qaza (Worked) - 4</td>
+                </tr>
+                <tr>
+                    <td>Quran</td>
+                    <td>99m</td>
+                </tr>
+                <tr>
+                    <td>Fojor</td>
+                    <td>Alone - 2 + 2</td>
+                </tr>
+                <tr>
+                    <td colspan='2'>14 December 2024</td>
+                </tr>
                 <tr>
                     <td>Esha</td>
                     <td>Alone - 4 + 2 + 3</td>
