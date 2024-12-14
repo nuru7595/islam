@@ -15,7 +15,7 @@ export default function Table() {
                     <td>Asor</td>
                     <td>Jamaat - 4</td>
                 </tr>
-                <tr>
+                <tr className="bg-black">
                     <td>Johor</td>
                     <td>Qaza (Worked) - 4</td>
                 </tr>
@@ -46,7 +46,7 @@ export default function Table() {
                     <td>Jummah</td>
                     <td>Jamaat - 4 + 2</td>
                 </tr>
-                <tr>
+                <tr className="bg-black">
                     <td>Fojor</td>
                     <td>Qaza (Err.) - 2</td>
                 </tr>

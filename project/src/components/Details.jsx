@@ -6,7 +6,7 @@ export default function () {
             <div className="flex flex-row justify-center gap-5 p-3 flex-wrap">
                 <span>Start - 01 Dec 24</span>
                 <span>Updated - 14 Dec 24</span>
-                <span>Qaza - 0</span>
+                <span>Qaza Due - 0</span>
                 <span>Most Common Reason - Sleep</span>
             </div>
             <audio src={audio} controls className="w-5/6 m-auto h-8"></audio>
