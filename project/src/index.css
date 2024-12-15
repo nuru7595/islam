@@ -39,5 +39,5 @@ p {
 }
 
 span {
-    @apply rounded-full bg-white text-black px-2 py-1;
+    @apply rounded-full px-2 py-1 border-2 border-white text-sm;
 }
