@@ -3,22 +3,25 @@ export default function () {
         <>
             <div className="flex flex-row justify-center gap-3 flex-wrap">
                 <span>Started - 01 Dec 24</span>
-                <span>Updated - 15 Dec 24</span>
+                <span>Updated - 16 Dec 24</span>
                 <span>Qaza Due - 0</span>
-                <span>v0.0.15</span>
+                <span>v0.0.16</span>
             </div>
             <section className="overflow-hidden">
                 <div className="relative">
-                    <select defaultValue="dec24" className="block appearance-none w-full bg-bg p-2 outline-none cursor-pointer px-4">
+                    <select
+                        defaultValue="dec24"
+                        className="block appearance-none w-full bg-bg p-2 outline-none cursor-pointer px-4"
+                    >
                         {/* <option value="apr25" disabled>April 2025</option>
                         <option value="mar25" disabled>March 2025</option> */}
-                        <option value="feb25" disabled>February 2025</option>
+                        <option value="feb25" disabled>
+                            February 2025
+                        </option>
                         <option value="jan25" disabled>
                             January 2025
                         </option>
-                        <option value="dec24">
-                            December 2024
-                        </option>
+                        <option value="dec24">December 2024</option>
                     </select>
                     <div className="pointer-events-none absolute inset-y-0 right-0 flex items-center px-4">
                         <svg

@@ -5,6 +5,33 @@ export default function Dec24() {
             <table>
                 <tbody>
                     <tr>
+                        <td colspan='2'>16 December 2024</td>
+                    </tr>
+                    <tr>
+                        <td>Tahajjud</td>
+                        <td>Alone - 2</td>
+                    </tr>
+                    <tr>
+                        <td>Fojor</td>
+                        <td>Alone - 2 + 2</td>
+                    </tr>
+                    <tr>
+                        <td>Johor</td>
+                        <td>Alone - 4 + 4 + 2</td>
+                    </tr>
+                    <tr>
+                        <td>Asor</td>
+                        <td>Alone - 4</td>
+                    </tr>
+                    <tr>
+                        <td>Magreeb</td>
+                        <td>Alone - 3 + 2</td>
+                    </tr>
+                    <tr>
+                        <td>Esha</td>
+                        <td>Alone - 4 + 2 + 3</td>
+                    </tr>
+                    <tr>
                         <td colSpan="2">15 December</td>
                     </tr>
                     <tr>
