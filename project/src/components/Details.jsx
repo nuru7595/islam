@@ -7,7 +7,7 @@ export default function () {
                 <span>Qaza Due - 0</span>
                 <span>Most Qaza - Fojor</span>
                 <span>Most Qaza Cause - Sleep</span>
-                <span>v0.0.17.1</span>
+                <span>v0.0.18</span>
             </div>
             <section className="overflow-hidden">
                 <div className="relative">
