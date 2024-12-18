@@ -3,9 +3,11 @@ export default function () {
         <>
             <div className="flex flex-row justify-center gap-3 flex-wrap">
                 <span>Started - 01 Dec 24</span>
-                <span>Updated - 16 Dec 24</span>
+                <span>Updated - 18 Dec 24</span>
                 <span>Qaza Due - 0</span>
-                <span>v0.0.16</span>
+                <span>Most Qaza - Fojor</span>
+                <span>Most Qaza Cause - Sleep</span>
+                <span>v0.0.17.1</span>
             </div>
             <section className="overflow-hidden">
                 <div className="relative">

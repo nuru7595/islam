@@ -5,6 +5,52 @@ export default function Dec24() {
             <table>
                 <tbody>
                     <tr>
+                        <td colspan='2'>18 December 2024</td>
+                    </tr>
+                    <tr className="bg-black">
+                        <td>Fojor</td>
+                        <td>Qaza (Slept) - 2</td>
+                    </tr>
+                    <tr>
+                        <td>Johor</td>
+                        {/* <td> - 4 + 4 + 2</td> */}
+                    </tr>
+                    <tr>
+                        <td>Asor</td>
+                        {/* <td> - 4</td> */}
+                    </tr>
+                    <tr>
+                        <td>Magreeb</td>
+                        {/* <td> - 3 + 2</td> */}
+                    </tr>
+                    <tr>
+                        <td>Esha</td>
+                        {/* <td> - 4 + 2 + 3</td> */}
+                    </tr>
+                    <tr>
+                        <td colspan='2'>17 December 2024</td>
+                    </tr>
+                    <tr className="bg-black">
+                        <td>Fojor</td>
+                        <td>Qaza (Slept) - 2</td>
+                    </tr>
+                    <tr>
+                        <td>Johor</td>
+                        <td>Alone - 4 + 4 + 2</td>
+                    </tr>
+                    <tr>
+                        <td>Asor</td>
+                        <td>Alone - 4</td>
+                    </tr>
+                    <tr>
+                        <td>Magreeb</td>
+                        <td>Alone - 3 + 2</td>
+                    </tr>
+                    <tr>
+                        <td>Esha</td>
+                        <td>Alone - 4 + 2 + 3</td>
+                    </tr>
+                    <tr>
                         <td colspan='2'>16 December 2024</td>
                     </tr>
                     <tr>
